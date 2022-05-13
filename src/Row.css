@@ -17,3 +17,7 @@
 .row_poster:hover{
     transform: scale(1.08);
 }
+.row_posterLarge{
+    max-height: 400px;
+    overflow-x: auto;
+}
