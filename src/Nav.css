@@ -1,0 +1,25 @@
+.Nav{
+    position: fixed;
+    width:100%;
+    top:0;
+    padding:20px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    height:30px;
+}
+.Nav_logo{
+    position: fixed;
+    left:20px;
+    width:100px;
+    object-fit: contain;
+
+}
+.Nav-avatar{
+    position: fixed;
+    right:20px;
+    width:30px;
+    object-fit: contain;
+
+}
